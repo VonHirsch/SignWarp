@@ -1,0 +1,5 @@
+name: SignEffects
+version: 1.0
+main: me.redstonefreak589.warp.Main
+description: >
+            Adds potion effects to the player
